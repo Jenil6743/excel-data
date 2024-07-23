@@ -1,0 +1,35 @@
+.excel-viewer {
+  padding: 20px;
+}
+
+.excel-upload {
+  margin-bottom: 20px;
+}
+
+.upload-label {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.excel-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.excel-table th,
+.excel-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.excel-table th {
+  font-weight: bold;
+  background-color: #f0f0f0;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+}
